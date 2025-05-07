@@ -155,7 +155,7 @@ html {
 /* Default light theme (no class needed) */
 .navbar {
     /*  background-color: #f8f9fa;*/
-    background: rgba(76, 175, 80, 0.5); /* Green background with 30% opacity */
+    background: rgba(225, 225, 225, 0.3); /* Green background with 30% opacity */
     color: #000;
 }
 

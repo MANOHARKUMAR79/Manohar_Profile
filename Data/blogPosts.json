@@ -6,11 +6,11 @@
     "description": "Something’s off.",
     "content": "<p>Modern web development often involves massive build pipelines, but your end users don’t care how your app was built. If your build takes longer than it takes to load your app, you might be overengineering. Consider optimizing your toolchain, caching layers, or switching to simpler workflows.</p><p>Remember: user experience > dev experience.</p>",
     "author": "Maxime",
-    "authorImageUrl": "images/LOGO.png",
+    "authorImageUrl": "Images/LOGO.png",
     "createdAt": "2025-04-18T08:00:00",
     "readTime": 2,
     "imageUrls": [
-      "images/blog_images/cheeta.jpg"
+      "Images/Blog_images/cheeta.jpg"
     ]
   },
   {
@@ -20,11 +20,11 @@
     "description": "Embrace the new way of programming",
     "content": "<p>Claude AI is not just another chatbot. It helps you think, structure, and even write high-quality code with inline context. You can use it to generate test cases, explain code, or even pair program through a tricky logic flow.</p><p>Pro tip: combine Claude with your IDE for mind-blowing productivity gains.</p>",
     "author": "Gavin F.",
-    "authorImageUrl": "images/LOGO.png",
+    "authorImageUrl": "Images/LOGO.png",
     "createdAt": "2025-04-17T10:15:00",
     "readTime": 15,
     "imageUrls": [
-      "images/blog_images/wolf.jpg"
+      "Images/Blog_images/wolf.jpg"
     ]
   },
   {
@@ -34,11 +34,11 @@
     "description": "A developer-friendly guide with code examples, libraries, and secure configuration tips",
     "content": "<ul><li>Still using outdated .NET Framework?</li><li>Not validating input?</li><li>Storing secrets in code?</li></ul><p>These are just a few reasons your .NET app might be vulnerable. This article covers 10 key risks and how to fix them using tools like <code>dotnet user-secrets</code>, Data Annotations, and modern DI practices.</p>",
     "author": "Hossein Kohzadi",
-    "authorImageUrl": "images/LOGO.png",
+    "authorImageUrl": "Images/LOGO.png",
     "createdAt": "2025-04-17T12:00:00",
     "readTime": 4,
     "imageUrls": [
-      "images/blog_images/owl.jpg"
+      "Images/Blog_images/owl.jpg"
     ]
   }
 ]
