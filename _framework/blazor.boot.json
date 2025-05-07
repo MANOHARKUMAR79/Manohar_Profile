@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Manohar_Portfolio",
   "resources": {
-    "hash": "sha256-MsAZqEiMxNWUpiQvi4k5DRsaXa8qA59zhBVpINSCs6A=",
+    "hash": "sha256-pjed0qKx90skoUqhBN11rk6o9wB1v3kGKWAWzx1MZe8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Manohar_Portfolio.wasm": "sha256-AxB3qfwypHrUW4lbOcEgP/sU98QDqdcP+IQ1g0VkU/0=",
+      "Manohar_Portfolio.wasm": "sha256-yzjLDHXDqQnZziV2nL+UB+UENKm0t0xNYqPwAA8MStE=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-MyMCrQNlGicTGwootpRl/owHNRw2NBOHFqGeHYtiY+k=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-aSkGMtXQ+nX7g4Qyy8R/1Sw9VWGX6gI9MjUponKtiz4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-YOTmgCi9w/cS25afM5UoVJ07S8qiQ6SREvyxCkFnL5o=",
